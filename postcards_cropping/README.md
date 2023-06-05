@@ -5,9 +5,7 @@
 2. Библиотека rembg для удаления фона с фотографий
 3. Оригинальный метод обрезки 
 
-Примеры работы методов можно найти в `postcards_cropping_orig_method` (оригинальный метод) и `postcards_cropping_opencv_rembg` (библиотека rembg и сканнер документов на основе OpenCV).
-
-`crop_orig_method.py`, `crop_rembg.py`, `crop_opencv.py` -- код из ноутбуков `postcards_cropping_orig_method`, `postcards_cropping_opencv_rembg` в виде скриптов для удобства использования
+Примеры работы методов можно найти в `orig_method` (оригинальный метод) и `opencv_rembg` (библиотека rembg и сканнер документов на основе OpenCV).
 
 ## Обобщенный алгоритм обрезки
 1. Обрезать поля сканнером документов OpenCV
