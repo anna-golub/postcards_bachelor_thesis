@@ -25,7 +25,3 @@
 
 <img src="readme_images/front.jpg" width="400"/>
 <img src="readme_images/back.jpg" width="400"/>
-
-
-## Устаревший код
-`postcards_cropping_main` -- обрезчик отрыток: объединенный алгоритм, использующий все три метода (устаревшая версия)
